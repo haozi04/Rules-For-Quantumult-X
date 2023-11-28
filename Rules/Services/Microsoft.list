@@ -4,6 +4,7 @@ user-agent,Microsoft*,Microsoft
 host-keyword,microsoft,Microsoft
 host-keyword,windows,Microsoft
 host-suffix,microsoft.com,Microsoft
+host-suffix,cloud.microsoft,Microsoft
 host-suffix,microsoftonline.com,Microsoft
 host-suffix,microsoft-tst.com,Microsoft
 
@@ -135,6 +136,9 @@ host-keyword,outlook,Microsoft
 host-suffix,outlookgroups.ms,Microsoft
 host-suffix,outlookmobile.com,Microsoft
 
+# > Linkedin
+host-suffix,linkedin.com,Microsoft
+
 # > Live
 host-suffix,live.com,Microsoft
 host-suffix,live.net,Microsoft
@@ -212,6 +216,7 @@ host-suffix,xbox.com,Microsoft
 host-suffix,xboxlive.com,Microsoft
 
 # > Office 365
+host,insights.viva.office.com,Microsoft
 host-keyword,Office,Microsoft
 host-suffix,o365cn.com,Microsoft
 host-suffix,o365files.cn,Microsoft
@@ -295,6 +300,7 @@ host-keyword,msauth,Microsoft
 host-keyword,msft,Microsoft
 host-keyword,msftauth,Microsoft
 host-keyword,winhec,Microsoft
+host-suffix,app.clipchamp.com,Microsoft
 host-suffix,aadrm.com,Microsoft
 host-suffix,acompli.net,Microsoft
 host-suffix,ankarazirvesi2018.com,Microsoft
@@ -352,6 +358,7 @@ host-suffix,latampartneruniversity.com,Microsoft
 host-suffix,livingyourambition.com,Microsoft
 host-suffix,localytics.com,Microsoft
 host-suffix,lync.com,Microsoft
+host-suffix,manage.kaizala.la,Microsoft
 host-suffix,makecode.org,Microsoft
 host-suffix,managedmeetingrooms.com,Microsoft
 host-suffix,meetfasttrack.com,Microsoft
